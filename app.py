@@ -136,7 +136,7 @@ metadata = metadata.merge(
 # ============================================================
 
 left_panel, right_panel = st.columns(
-    [35, 65],
+    [40, 60],
     gap="medium"
 )
 
