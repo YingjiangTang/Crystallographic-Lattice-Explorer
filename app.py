@@ -153,6 +153,12 @@ left_panel, right_panel = st.columns(
     gap="medium"
 )
 
+def on_system_change():
+    st.session_state.bravais = "All"
+    st.session_state.space_group = "All"
+
+def on_bravais_change():
+    st.session_state.space_group = "All"
 
 # ============================================================
 # 5. Left panel: three scrollable selection columns
@@ -174,14 +180,15 @@ with left_panel:
     with col1:
 
         st.markdown("**Crystal System**")
-
+    
         with st.container(height=350):
-
+    
             selected_system = st.radio(
                 "Select Crystal System",
                 ["All"] + CRYSTAL_SYSTEMS,
                 label_visibility="collapsed",
-                key="crystal_system"
+                key="crystal_system",
+                on_change=on_system_change
             )
 
     # ----------------------------
@@ -210,7 +217,7 @@ with left_panel:
                 ["All"] + available_bravais,
                 label_visibility="collapsed",
                 key="bravais",
-                index=0
+                on_change=on_bravais_change
             )
 
     # ----------------------------
