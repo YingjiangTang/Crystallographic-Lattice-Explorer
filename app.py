@@ -104,6 +104,19 @@ def build_spacegroup_database():
 
 sg_database = build_spacegroup_database()
 
+def on_spacegroup_change():
+
+    selected_sg = st.session_state.space_group
+
+    if selected_sg == "All":
+        return
+
+    row = sg_database[
+        sg_database["SpaceGroup"] == int(selected_sg)
+    ].iloc[0]
+
+    st.session_state.crystal_system = row["CrystalSystem"]
+    st.session_state.bravais = row["Bravais"]
 
 # ============================================================
 # 3. Load lattice metadata
@@ -216,15 +229,15 @@ with left_panel:
     with col3:
 
         st.markdown("**Space Group**")
-
+    
         with st.container(height=350):
-
+    
             selected_sg = st.radio(
                 "Select Space Group",
                 ["All"] + available_numbers,
                 label_visibility="collapsed",
                 key="space_group",
-                index=0
+                on_change=on_spacegroup_change
             )
 
 
