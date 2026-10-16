@@ -150,7 +150,7 @@ with left_panel:
     st.subheader("Crystallographic Filters")
 
     col1, col2, col3 = st.columns(
-    [2.2, 1, 1],
+    [1.5, 1, 1],
     gap="small"
     )
 
