@@ -1,0 +1,9 @@
+Name,SpaceGroup,Method,Zave
+NaCl_225,225,Voronoi,4.0
+CsCl_221,221,Voronoi,6.0
+Diamond_227,227,Network,4.0
+ZnS_216,216,Network,4.0
+Prototype_001,225,Network,8.0
+Prototype_002,229,Voronoi,6.5
+Prototype_003,194,Network,4.2
+Prototype_004,139,Voronoi,5.8
