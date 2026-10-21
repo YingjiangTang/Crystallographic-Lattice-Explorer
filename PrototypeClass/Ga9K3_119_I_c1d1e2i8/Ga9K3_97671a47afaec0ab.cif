@@ -1,0 +1,37 @@
+# AFLOW.org Repositories
+# Ga3K1   [BCT,BCT2,tI24] (STD_PRIM doi:10
+data_Ga3K1
+_pd_phase_name Ga3K1
+_cell_length_a  8.7135319151
+_cell_length_b  8.7135319151
+_cell_length_c  8.7135319151
+_cell_angle_alpha  137.4479468969
+_cell_angle_beta  137.4479468969
+_cell_angle_gamma  61.7495542382
+_symmetry_space_group_name_H-M  'P1'
+_symmetry_Int_Tables_Number  1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+Ga1 1.0000000000 0.8580087315 0.0534681083 0.1954593768  Biso 1.0 Ga
+Ga2 1.0000000000 0.8580087315 0.6625493548 0.8045406232  Biso 1.0 Ga
+Ga3 1.0000000000 0.9465318917 0.1419912685 0.8045406232  Biso 1.0 Ga
+Ga4 1.0000000000 0.3374506452 0.1419912685 0.1954593768  Biso 1.0 Ga
+Ga5 1.0000000000 0.0290164638 0.3227530617 0.2937365980  Biso 1.0 Ga
+Ga6 1.0000000000 0.0290164638 0.7352798658 0.7062634020  Biso 1.0 Ga
+Ga7 1.0000000000 0.6772469383 0.9709835362 0.7062634020  Biso 1.0 Ga
+Ga8 1.0000000000 0.2647201342 0.9709835362 0.2937365980  Biso 1.0 Ga
+Ga9 1.0000000000 0.7500000000 0.2500000000 0.5000000000  Biso 1.0 Ga
+K10 1.0000000000 0.3766192461 0.3766192461 0.0000000000  Biso 1.0 K
+K11 1.0000000000 0.6233807539 0.6233807539 0.0000000000  Biso 1.0 K
+K12 1.0000000000 0.2500000000 0.7500000000 0.5000000000  Biso 1.0 K

@@ -1,0 +1,34 @@
+# AFLOW.org Repositories
+# B4Li5   [RHL,RHL2,hR9] (STD_PRIM doi:10.
+data_B4Li5
+_pd_phase_name B4Li5
+_cell_length_a  4.7994074518
+_cell_length_b  4.7994074518
+_cell_length_c  4.7994074518
+_cell_angle_alpha  83.7017317263
+_cell_angle_beta  83.7017317263
+_cell_angle_gamma  83.7017317263
+_symmetry_space_group_name_H-M  'P1'
+_symmetry_Int_Tables_Number  1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+B1 1.0000000000 0.2204808282 0.8127265584 0.2204808282  Biso 1.0 B
+B2 1.0000000000 0.8127265584 0.2204808282 0.2204808282  Biso 1.0 B
+B3 1.0000000000 0.2204808282 0.2204808282 0.8127265584  Biso 1.0 B
+B4 1.0000000000 0.0217803712 0.0217803712 0.0217803712  Biso 1.0 B
+Li5 1.0000000000 0.7125376590 0.2778939072 0.7125376590  Biso 1.0 Li
+Li6 1.0000000000 0.2778939072 0.7125376590 0.7125376590  Biso 1.0 Li
+Li7 1.0000000000 0.7125376590 0.7125376590 0.2778939072  Biso 1.0 Li
+Li8 1.0000000000 0.7862789692 0.7862789692 0.7862789692  Biso 1.0 Li
+Li9 1.0000000000 0.3102832195 0.3102832195 0.3102832195  Biso 1.0 Li

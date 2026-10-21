@@ -1,0 +1,36 @@
+# AFLOW.org Repositories
+# Cr3O8   [MCLC,MCLC1,mS22] (STD_PRIM doi:
+data_Cr3O8
+_pd_phase_name Cr3O8
+_cell_length_a  5.2694953889
+_cell_length_b  5.2694953889
+_cell_length_c  6.6012016111
+_cell_angle_alpha  87.8061658922
+_cell_angle_beta  87.8061658922
+_cell_angle_gamma  62.3949791458
+_symmetry_space_group_name_H-M  'P1'
+_symmetry_Int_Tables_Number  1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+Cr1 1.0000000000 0.0000000000 0.0000000000 0.5000000000  Biso 1.0 Cr
+Cr2 1.0000000000 0.3614871788 0.3614871788 0.2619098003  Biso 1.0 Cr
+Cr3 1.0000000000 0.6385128212 0.6385128212 0.7380901997  Biso 1.0 Cr
+O4 1.0000000000 0.7859574347 0.7859574347 0.5770159028  Biso 1.0 O
+O5 1.0000000000 0.2140425653 0.2140425653 0.4229840972  Biso 1.0 O
+O6 1.0000000000 0.6860588720 0.6860588720 0.9673999462  Biso 1.0 O
+O7 1.0000000000 0.3139411280 0.3139411280 0.0326000538  Biso 1.0 O
+O8 1.0000000000 0.2129453599 0.7219122346 0.3016674977  Biso 1.0 O
+O9 1.0000000000 0.2780877654 0.7870546401 0.6983325023  Biso 1.0 O
+O10 1.0000000000 0.7870546401 0.2780877654 0.6983325023  Biso 1.0 O
+O11 1.0000000000 0.7219122346 0.2129453599 0.3016674977  Biso 1.0 O

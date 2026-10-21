@@ -1,0 +1,29 @@
+# AFLOW.org Repositories
+# Cu1I1   [HEX,HEX,hP4] (STD_PRIM doi:10.1
+data_Cu1I1
+_pd_phase_name Cu1I1
+_cell_length_a  4.2205987635
+_cell_length_b  4.2205987635
+_cell_length_c  7.3504299200
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  120.0000000000
+_symmetry_space_group_name_H-M  'P1'
+_symmetry_Int_Tables_Number  1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+Cu1 1.0000000000 0.0000000000 0.0000000000 0.6574341710  Biso 1.0 Cu
+Cu2 1.0000000000 0.6665623771 0.3331247543 0.8610085630  Biso 1.0 Cu
+I3 1.0000000000 0.0000000000 0.0000000000 0.0142316663  Biso 1.0 I
+I4 1.0000000000 0.6667602833 0.3335205667 0.4993255997  Biso 1.0 I

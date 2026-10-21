@@ -1,0 +1,35 @@
+# AFLOW.org Repositories
+# C1Fe4   [MCL,MCL,mP10] (STD_PRIM doi:10.
+data_C1Fe4
+_pd_phase_name C1Fe4
+_cell_length_a  2.8569331695
+_cell_length_b  6.1285107707
+_cell_length_c  6.9851846526
+_cell_angle_alpha  77.3509929071
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P1'
+_symmetry_Int_Tables_Number  1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+C1 1.0000000000 0.2500000000 0.8649808348 0.7397762670  Biso 1.0 C
+C2 1.0000000000 0.7500000000 0.1350191652 0.2602237330  Biso 1.0 C
+Fe3 1.0000000000 0.7500000000 0.1262031057 0.8093506673  Biso 1.0 Fe
+Fe4 1.0000000000 0.2500000000 0.8737968943 0.1906493327  Biso 1.0 Fe
+Fe5 1.0000000000 0.7500000000 0.8350017964 0.5202731894  Biso 1.0 Fe
+Fe6 1.0000000000 0.2500000000 0.1649982036 0.4797268106  Biso 1.0 Fe
+Fe7 1.0000000000 0.2500000000 0.3209760393 0.0810328207  Biso 1.0 Fe
+Fe8 1.0000000000 0.7500000000 0.6790239607 0.9189671793  Biso 1.0 Fe
+Fe9 1.0000000000 0.2500000000 0.4960266956 0.6697202221  Biso 1.0 Fe
+Fe10 1.0000000000 0.7500000000 0.5039733044 0.3302797779  Biso 1.0 Fe

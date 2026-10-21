@@ -1,0 +1,33 @@
+# AFLOW.org Repositories
+# Ag6O2   [HEX,HEX,hP8] (STD_PRIM doi:10.1
+data_Ag6O2
+_pd_phase_name Ag6O2
+_cell_length_a  5.4926427582
+_cell_length_b  5.4926427582
+_cell_length_c  4.9591811264
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  120.0000000000
+_symmetry_space_group_name_H-M  'P1'
+_symmetry_Int_Tables_Number  1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+Ag1 1.0000000000 0.0000000000 0.6926337584 0.2268852245  Biso 1.0 Ag
+Ag2 1.0000000000 0.3073668061 0.3073668061 0.2268852244  Biso 1.0 Ag
+Ag3 1.0000000000 0.6926360028 0.0000000000 0.2268860679  Biso 1.0 Ag
+Ag4 1.0000000000 0.6926337614 0.6926337614 0.7731147754  Biso 1.0 Ag
+Ag5 1.0000000000 0.0000000000 0.3073668069 0.7731147754  Biso 1.0 Ag
+Ag6 1.0000000000 0.3073634300 0.0000000000 0.7731139357  Biso 1.0 Ag
+O7 1.0000000000 0.6666672098 0.3333344180 0.4999999994  Biso 1.0 O
+O8 1.0000000000 0.3333327876 0.6666655777 0.4999999974  Biso 1.0 O

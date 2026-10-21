@@ -1,0 +1,29 @@
+# AFLOW.org Repositories
+# Cu1O1   [MCLC,MCLC1,mS8] (STD_PRIM doi:1
+data_Cu1O1
+_pd_phase_name Cu1O1
+_cell_length_a  2.9354364845
+_cell_length_b  2.9354364845
+_cell_length_c  5.1543279872
+_cell_angle_alpha  85.6515829337
+_cell_angle_beta  85.6515829337
+_cell_angle_gamma  81.7831015474
+_symmetry_space_group_name_H-M  'P1'
+_symmetry_Int_Tables_Number  1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+Cu1 1.0000000000 0.0056799738 0.5044174770 0.0051510427  Biso 1.0 Cu
+Cu2 1.0000000000 0.5044174770 0.0056799738 0.5051510427  Biso 1.0 Cu
+O3 1.0000000000 0.4700822671 0.5406202821 0.2550489573  Biso 1.0 O
+O4 1.0000000000 0.5406202821 0.4700822671 0.7550489573  Biso 1.0 O

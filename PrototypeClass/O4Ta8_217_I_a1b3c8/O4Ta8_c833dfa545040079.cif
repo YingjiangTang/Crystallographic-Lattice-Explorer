@@ -1,0 +1,37 @@
+# AFLOW.org Repositories
+# O1Ta2   [BCC,BCC,cI24] (STD_PRIM doi:10.
+data_O1Ta2
+_pd_phase_name O1Ta2
+_cell_length_a  6.5714671433
+_cell_length_b  6.5714671433
+_cell_length_c  6.5714671433
+_cell_angle_alpha  109.4712206345
+_cell_angle_beta  109.4712206345
+_cell_angle_gamma  109.4712206345
+_symmetry_space_group_name_H-M  'P1'
+_symmetry_Int_Tables_Number  1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+O1 1.0000000000 0.2882125313 0.0000000000 0.0000000000  Biso 1.0 O
+O2 1.0000000000 0.7117874687 0.7117874687 0.7117874687  Biso 1.0 O
+O3 1.0000000000 0.0000000000 0.0000000000 0.2882125313  Biso 1.0 O
+O4 1.0000000000 0.0000000000 0.2882125313 0.0000000000  Biso 1.0 O
+Ta5 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Ta
+Ta6 1.0000000000 0.5000000000 0.5000000000 0.0000000000  Biso 1.0 Ta
+Ta7 1.0000000000 0.5000000000 0.0000000000 0.5000000000  Biso 1.0 Ta
+Ta8 1.0000000000 0.0000000000 0.5000000000 0.5000000000  Biso 1.0 Ta
+Ta9 1.0000000000 0.5703425929 0.0000000000 0.0000000000  Biso 1.0 Ta
+Ta10 1.0000000000 0.4296574071 0.4296574071 0.4296574071  Biso 1.0 Ta
+Ta11 1.0000000000 0.0000000000 0.0000000000 0.5703425929  Biso 1.0 Ta
+Ta12 1.0000000000 0.0000000000 0.5703425929 0.0000000000  Biso 1.0 Ta

@@ -1,0 +1,33 @@
+# AFLOW.org Repositories
+# As3Ba1   [MCLC,MCLC1,mS16] (STD_PRIM doi
+data_As3Ba1
+_pd_phase_name As3Ba1
+_cell_length_a  6.4916315775
+_cell_length_b  6.4916315775
+_cell_length_c  6.1339558545
+_cell_angle_alpha  71.6338670799
+_cell_angle_beta  71.6338670799
+_cell_angle_gamma  74.8366692709
+_symmetry_space_group_name_H-M  'P1'
+_symmetry_Int_Tables_Number  1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+As1 1.0000000000 0.5043649716 0.5043649716 0.2038883280  Biso 1.0 As
+As2 1.0000000000 0.4956350284 0.4956350284 0.7961116720  Biso 1.0 As
+As3 1.0000000000 0.3733560893 0.9045241606 0.1832423450  Biso 1.0 As
+As4 1.0000000000 0.0954758394 0.6266439107 0.8167576550  Biso 1.0 As
+As5 1.0000000000 0.6266439107 0.0954758394 0.8167576550  Biso 1.0 As
+As6 1.0000000000 0.9045241606 0.3733560893 0.1832423450  Biso 1.0 As
+Ba7 1.0000000000 0.1648791825 0.1648791825 0.6637404606  Biso 1.0 Ba
+Ba8 1.0000000000 0.8351208175 0.8351208175 0.3362595394  Biso 1.0 Ba

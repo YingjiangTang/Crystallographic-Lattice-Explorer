@@ -1,0 +1,35 @@
+# AFLOW.org Repositories
+# Pt2Te3   [RHL,RHL1,hR10] (STD_PRIM doi:1
+data_Pt2Te3
+_pd_phase_name Pt2Te3
+_cell_length_a  17.4129443488
+_cell_length_b  17.4129443488
+_cell_length_c  17.4129443488
+_cell_angle_alpha  13.3331785801
+_cell_angle_beta  13.3331785801
+_cell_angle_gamma  13.3331785801
+_symmetry_space_group_name_H-M  'P1'
+_symmetry_Int_Tables_Number  1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+Pt1 1.0000000000 0.6527646624 0.6527646624 0.6527646624  Biso 1.0 Pt
+Pt2 1.0000000000 0.3472353376 0.3472353376 0.3472353376  Biso 1.0 Pt
+Pt3 1.0000000000 0.5509914612 0.5509914612 0.5509914612  Biso 1.0 Pt
+Pt4 1.0000000000 0.4490085388 0.4490085388 0.4490085388  Biso 1.0 Pt
+Te5 1.0000000000 0.9626717978 0.9626717978 0.9626717978  Biso 1.0 Te
+Te6 1.0000000000 0.0373282022 0.0373282022 0.0373282022  Biso 1.0 Te
+Te7 1.0000000000 0.8581959490 0.8581959490 0.8581959490  Biso 1.0 Te
+Te8 1.0000000000 0.1418040510 0.1418040510 0.1418040510  Biso 1.0 Te
+Te9 1.0000000000 0.7555571962 0.7555571962 0.7555571962  Biso 1.0 Te
+Te10 1.0000000000 0.2444428038 0.2444428038 0.2444428038  Biso 1.0 Te

@@ -1,0 +1,33 @@
+# AFLOW.org Repositories
+# As1Co1   [ORC,ORC,oP8] (STD_PRIM doi:10.
+data_As1Co1
+_pd_phase_name As1Co1
+_cell_length_a  3.7776688923
+_cell_length_b  5.3012700131
+_cell_length_c  6.3357032877
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P1'
+_symmetry_Int_Tables_Number  1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+As1 1.0000000000 0.7497530437 0.1920091368 0.4291328800  Biso 1.0 As
+As2 1.0000000000 0.2497530437 0.8079908632 0.5708671200  Biso 1.0 As
+As3 1.0000000000 0.7497530437 0.6920091368 0.0708671200  Biso 1.0 As
+As4 1.0000000000 0.2497530437 0.3079908632 0.9291328800  Biso 1.0 As
+Co5 1.0000000000 0.7496469563 0.0035515922 0.7905001212  Biso 1.0 Co
+Co6 1.0000000000 0.2496469563 0.9964484078 0.2094998788  Biso 1.0 Co
+Co7 1.0000000000 0.7496469563 0.5035515922 0.7094998788  Biso 1.0 Co
+Co8 1.0000000000 0.2496469563 0.4964484078 0.2905001212  Biso 1.0 Co

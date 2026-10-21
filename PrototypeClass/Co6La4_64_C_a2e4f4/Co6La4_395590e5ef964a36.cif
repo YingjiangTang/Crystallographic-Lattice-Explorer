@@ -1,0 +1,35 @@
+# AFLOW.org Repositories
+# Co3La2   [ORCC,ORCC,oS20] (STD_PRIM doi:
+data_Co3La2
+_pd_phase_name Co3La2
+_cell_length_a  5.9727286904
+_cell_length_b  5.9727286904
+_cell_length_c  8.2283276023
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  127.8223301929
+_symmetry_space_group_name_H-M  'P1'
+_symmetry_Int_Tables_Number  1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+Co1 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Co
+Co2 1.0000000000 0.5000000000 0.5000000000 0.5000000000  Biso 1.0 Co
+Co3 1.0000000000 0.3394480778 0.1605519222 0.7500000000  Biso 1.0 Co
+Co4 1.0000000000 0.1605519222 0.3394480778 0.2500000000  Biso 1.0 Co
+Co5 1.0000000000 0.6605519222 0.8394480778 0.2500000000  Biso 1.0 Co
+Co6 1.0000000000 0.8394480778 0.6605519222 0.7500000000  Biso 1.0 Co
+La7 1.0000000000 0.8442466125 0.1557533875 0.5946234980  Biso 1.0 La
+La8 1.0000000000 0.6557533875 0.3442466125 0.0946234980  Biso 1.0 La
+La9 1.0000000000 0.3442466125 0.6557533875 0.9053765020  Biso 1.0 La
+La10 1.0000000000 0.1557533875 0.8442466125 0.4053765020  Biso 1.0 La

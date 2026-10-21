@@ -1,0 +1,35 @@
+# AFLOW.org Repositories
+# Al3Pt2   [HEX,HEX,hP10] (STD_PRIM doi:10
+data_Al3Pt2
+_pd_phase_name Al3Pt2
+_cell_length_a  4.1124527370
+_cell_length_b  4.1124527370
+_cell_length_c  11.0538192585
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  120.0000000000
+_symmetry_space_group_name_H-M  'P1'
+_symmetry_Int_Tables_Number  1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+Al1 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Al
+Al2 1.0000000000 0.0000000000 0.0000000000 0.5000000000  Biso 1.0 Al
+Al3 1.0000000000 0.0000000000 0.0000000000 0.2283148859  Biso 1.0 Al
+Al4 1.0000000000 0.0000000000 0.0000000000 0.7716851141  Biso 1.0 Al
+Al5 1.0000000000 0.3333246220 0.6666754847 0.3365785398  Biso 1.0 Al
+Al6 1.0000000000 0.6666753780 0.3333245153 0.6634214602  Biso 1.0 Al
+Pt7 1.0000000000 0.3333301195 0.6666701895 0.1056709419  Biso 1.0 Pt
+Pt8 1.0000000000 0.6666698805 0.3333298105 0.8943290581  Biso 1.0 Pt
+Pt9 1.0000000000 0.3333329069 0.6666671793 0.5925444107  Biso 1.0 Pt
+Pt10 1.0000000000 0.6666670931 0.3333328207 0.4074555893  Biso 1.0 Pt

@@ -1,0 +1,31 @@
+# AFLOW.org Repositories
+# Br2Hg1   [ORCC,ORCC,oS12] (STD_PRIM doi:
+data_Br2Hg1
+_pd_phase_name Br2Hg1
+_cell_length_a  4.2955220609
+_cell_length_b  4.2955220609
+_cell_length_c  12.7720408964
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  109.1382836778
+_symmetry_space_group_name_H-M  'P1'
+_symmetry_Int_Tables_Number  1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+Br1 1.0000000000 0.9371907869 0.0628092131 0.8740169154  Biso 1.0 Br
+Br2 1.0000000000 0.0628092131 0.9371907869 0.3740169154  Biso 1.0 Br
+Br3 1.0000000000 0.6053039669 0.3946960331 0.6257884079  Biso 1.0 Br
+Br4 1.0000000000 0.3946960331 0.6053039669 0.1257884079  Biso 1.0 Br
+Hg5 1.0000000000 0.6663218690 0.3336781310 0.0000000000  Biso 1.0 Hg
+Hg6 1.0000000000 0.3336781310 0.6663218690 0.5001946768  Biso 1.0 Hg

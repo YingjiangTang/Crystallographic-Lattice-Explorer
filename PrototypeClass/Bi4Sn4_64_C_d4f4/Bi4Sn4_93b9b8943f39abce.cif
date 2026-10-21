@@ -1,0 +1,33 @@
+# AFLOW.org Repositories
+# Bi1Sn1   [ORCC,ORCC,oS16] (STD_PRIM doi:
+data_Bi1Sn1
+_pd_phase_name Bi1Sn1
+_cell_length_a  6.4432609629
+_cell_length_b  6.4432609629
+_cell_length_c  6.6780303089
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  116.8881864460
+_symmetry_space_group_name_H-M  'P1'
+_symmetry_Int_Tables_Number  1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+Bi1 1.0000000000 0.1671754431 0.1671754431 0.6795492450  Biso 1.0 Bi
+Bi2 1.0000000000 0.3328245569 0.3328245569 0.1795492450  Biso 1.0 Bi
+Bi3 1.0000000000 0.6671754431 0.6671754431 0.8204507550  Biso 1.0 Bi
+Bi4 1.0000000000 0.8328245569 0.8328245569 0.3204507550  Biso 1.0 Bi
+Sn5 1.0000000000 0.7830593410 0.2169406590 0.0000000000  Biso 1.0 Sn
+Sn6 1.0000000000 0.7169406590 0.2830593410 0.5000000000  Biso 1.0 Sn
+Sn7 1.0000000000 0.2169406590 0.7830593410 0.0000000000  Biso 1.0 Sn
+Sn8 1.0000000000 0.2830593410 0.7169406590 0.5000000000  Biso 1.0 Sn

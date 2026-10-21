@@ -1,0 +1,37 @@
+# AFLOW.org Repositories
+# O2Si1   [BCT,BCT1,tI24] (STD_PRIM doi:10
+data_O2Si1
+_pd_phase_name O2Si1
+_cell_length_a  6.7512530352
+_cell_length_b  6.7512530352
+_cell_length_c  6.7512530352
+_cell_angle_alpha  98.1349011560
+_cell_angle_beta  98.1349011560
+_cell_angle_gamma  135.8066453499
+_symmetry_space_group_name_H-M  'P1'
+_symmetry_Int_Tables_Number  1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+O1 1.0000000000 0.9845423308 0.9250258389 0.4792326966  Biso 1.0 O
+O2 1.0000000000 0.4457931423 0.5053096342 0.5207673034  Biso 1.0 O
+O3 1.0000000000 0.4946903658 0.0154576692 0.9404835082  Biso 1.0 O
+O4 1.0000000000 0.0749741611 0.5542068577 0.0595164918  Biso 1.0 O
+O5 1.0000000000 0.2799546613 0.0786310858 0.2079396719  Biso 1.0 O
+O6 1.0000000000 0.8706914139 0.0720149894 0.7920603281  Biso 1.0 O
+O7 1.0000000000 0.9279850106 0.7200453387 0.7986764245  Biso 1.0 O
+O8 1.0000000000 0.9213689142 0.1293085861 0.2013235755  Biso 1.0 O
+Si9 1.0000000000 0.1587199374 0.1601950297 0.3524196094  Biso 1.0 Si
+Si10 1.0000000000 0.8077754203 0.8063003280 0.6475803906  Biso 1.0 Si
+Si11 1.0000000000 0.1936996720 0.8412800626 0.0014750923  Biso 1.0 Si
+Si12 1.0000000000 0.8398049703 0.1922245797 0.9985249077  Biso 1.0 Si

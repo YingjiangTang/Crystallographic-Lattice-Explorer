@@ -1,0 +1,31 @@
+# AFLOW.org Repositories
+# F2Mg1 #2 - (F2Mg1_ICSD_51243) - F2Mg1 [F
+data_F2Mg1
+_pd_phase_name F2Mg1
+_cell_length_a  5.8399116149
+_cell_length_b  5.8399116149
+_cell_length_c  6.3997767478
+_cell_angle_alpha  57.1879103880
+_cell_angle_beta  57.1879103880
+_cell_angle_gamma  39.1521980855
+_symmetry_space_group_name_H-M  'P1'
+_symmetry_Int_Tables_Number  1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+F1 1.0000000000 0.3370246494 0.3368458491 0.9103120013  Biso 1.0 F
+F2 1.0000000000 0.6629753506 0.6631541509 0.0896879987  Biso 1.0 F
+F3 1.0000000000 0.0000000000 0.0000000000 0.5000000000  Biso 1.0 F
+F4 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 F
+Mg5 1.0000000000 0.1110159052 0.1114462561 0.1399894861  Biso 1.0 Mg
+Mg6 1.0000000000 0.8889840948 0.8885537439 0.8600105139  Biso 1.0 Mg

@@ -1,0 +1,32 @@
+# AFLOW.org Repositories
+# B4Cr3 #71 - (B4Cr3_ICSD_33704) - B4Cr3 [
+data_B4Cr3
+_pd_phase_name B4Cr3
+_cell_length_a  7.1923427491
+_cell_length_b  7.1923427491
+_cell_length_c  7.1923427491
+_cell_angle_alpha  155.5560603679
+_cell_angle_beta  153.6141721591
+_cell_angle_gamma  36.2748275696
+_symmetry_space_group_name_H-M  'P1'
+_symmetry_Int_Tables_Number  1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+B1 1.0000000000 0.3691779645 0.3691779645 0.0000000000  Biso 1.0 B
+B2 1.0000000000 0.6308220355 0.6308220355 0.0000000000  Biso 1.0 B
+B3 1.0000000000 0.4361000113 0.9361000113 0.5000000000  Biso 1.0 B
+B4 1.0000000000 0.5638999887 0.0638999887 0.5000000000  Biso 1.0 B
+Cr5 1.0000000000 0.0000000000 0.5000000000 0.5000000000  Biso 1.0 Cr
+Cr6 1.0000000000 0.1840017556 0.1840017556 0.0000000000  Biso 1.0 Cr
+Cr7 1.0000000000 0.8159982444 0.8159982444 0.0000000000  Biso 1.0 Cr

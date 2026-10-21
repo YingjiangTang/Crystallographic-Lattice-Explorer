@@ -1,0 +1,35 @@
+# AFLOW.org Repositories
+# Cl4Ta1   [MCLC,MCLC1,mS20] (STD_PRIM doi
+data_Cl4Ta1
+_pd_phase_name Cl4Ta1
+_cell_length_a  7.3595894199
+_cell_length_b  7.3595894199
+_cell_length_c  8.7934597523
+_cell_angle_alpha  54.5936321117
+_cell_angle_beta  54.5936321117
+_cell_angle_gamma  55.6899239733
+_symmetry_space_group_name_H-M  'P1'
+_symmetry_Int_Tables_Number  1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+Cl1 1.0000000000 0.8320257170 0.8320257170 0.1458928570  Biso 1.0 Cl
+Cl2 1.0000000000 0.1679742830 0.1679742830 0.8541071430  Biso 1.0 Cl
+Cl3 1.0000000000 0.6968090763 0.6968090763 0.8289196789  Biso 1.0 Cl
+Cl4 1.0000000000 0.3031909237 0.3031909237 0.1710803211  Biso 1.0 Cl
+Cl5 1.0000000000 0.2363370781 0.7210953426 0.2835824660  Biso 1.0 Cl
+Cl6 1.0000000000 0.2789046574 0.7636629219 0.7164175340  Biso 1.0 Cl
+Cl7 1.0000000000 0.7636629219 0.2789046574 0.7164175340  Biso 1.0 Cl
+Cl8 1.0000000000 0.7210953426 0.2363370781 0.2835824660  Biso 1.0 Cl
+Ta9 1.0000000000 0.2816450537 0.7183549463 0.0000000000  Biso 1.0 Ta
+Ta10 1.0000000000 0.7183549463 0.2816450537 0.0000000000  Biso 1.0 Ta

@@ -1,0 +1,35 @@
+# AFLOW.org Repositories
+# B3Ru2   [HEX,HEX,hP10] (STD_PRIM doi:10.
+data_B3Ru2
+_pd_phase_name B3Ru2
+_cell_length_a  2.9115323620
+_cell_length_b  2.9115323620
+_cell_length_c  12.8357848142
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  120.0000000000
+_symmetry_space_group_name_H-M  'P1'
+_symmetry_Int_Tables_Number  1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+B1 1.0000000000 0.3333606005 0.6666803002 0.9691217902  Biso 1.0 B
+B2 1.0000000000 0.6666393995 0.3333196998 0.4691217902  Biso 1.0 B
+B3 1.0000000000 0.6666393995 0.3333196998 0.0308782098  Biso 1.0 B
+B4 1.0000000000 0.3333606005 0.6666803002 0.5308782098  Biso 1.0 B
+B5 1.0000000000 0.3333631570 0.6666815785 0.7500000000  Biso 1.0 B
+B6 1.0000000000 0.6666368430 0.3333184215 0.2500000000  Biso 1.0 B
+Ru7 1.0000000000 0.3333583676 0.6666791838 0.1400073704  Biso 1.0 Ru
+Ru8 1.0000000000 0.6666416324 0.3333208162 0.6400073704  Biso 1.0 Ru
+Ru9 1.0000000000 0.6666416324 0.3333208162 0.8599926296  Biso 1.0 Ru
+Ru10 1.0000000000 0.3333583676 0.6666791838 0.3599926296  Biso 1.0 Ru

@@ -1,0 +1,36 @@
+# AFLOW.org Repositories
+# Sb8Te3   [RHL,RHL1,hR11] (STD_PRIM doi:1
+data_Sb8Te3
+_pd_phase_name Sb8Te3
+_cell_length_a  21.7331326401
+_cell_length_b  21.7331326401
+_cell_length_c  21.7331326401
+_cell_angle_alpha  11.5428552588
+_cell_angle_beta  11.5428552588
+_cell_angle_gamma  11.5428552588
+_symmetry_space_group_name_H-M  'P1'
+_symmetry_Int_Tables_Number  1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+Sb1 1.0000000000 0.6362193227 0.6363004944 0.6363004944  Biso 1.0 Sb
+Sb2 1.0000000000 0.3636882845 0.3637594091 0.3637594091  Biso 1.0 Sb
+Sb3 1.0000000000 0.9046498175 0.9047348052 0.9047348052  Biso 1.0 Sb
+Sb4 1.0000000000 0.0952667516 0.0953106791 0.0953106791  Biso 1.0 Sb
+Sb5 1.0000000000 0.5475510979 0.5476434770 0.5476434770  Biso 1.0 Sb
+Sb6 1.0000000000 0.4523591154 0.4524009148 0.4524009148  Biso 1.0 Sb
+Sb7 1.0000000000 0.1784505911 0.1785234096 0.1785234096  Biso 1.0 Sb
+Sb8 1.0000000000 0.8214502027 0.8215295354 0.8215295354  Biso 1.0 Sb
+Te9 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Te
+Te10 1.0000000000 0.2766508635 0.2767389168 0.2767389168  Biso 1.0 Te
+Te11 1.0000000000 0.7232445654 0.7233036899 0.7233036899  Biso 1.0 Te

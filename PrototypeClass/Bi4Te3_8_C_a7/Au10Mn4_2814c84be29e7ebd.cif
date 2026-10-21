@@ -1,0 +1,32 @@
+# AFLOW.org Repositories
+# Au5Mn2 #1 - (Au5Mn2_ICSD_612154) - Au5Mn
+data_Au5Mn2
+_pd_phase_name Au5Mn2
+_cell_length_a  5.0916462024
+_cell_length_b  5.0916462024
+_cell_length_c  6.6643666235
+_cell_angle_alpha  83.4745671607
+_cell_angle_beta  83.4745671607
+_cell_angle_gamma  46.3447569717
+_symmetry_space_group_name_H-M  'P1'
+_symmetry_Int_Tables_Number  1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+Au1 1.0000000000 0.4341604786 0.4341604786 0.7179215928  Biso 1.0 Au
+Au2 1.0000000000 0.5714450404 0.5714450404 0.2856896343  Biso 1.0 Au
+Au3 1.0000000000 0.8599988774 0.8599988774 0.4302587870  Biso 1.0 Au
+Au4 1.0000000000 0.2828836476 0.2828836476 0.1411469447  Biso 1.0 Au
+Au5 1.0000000000 0.7087288705 0.7087288705 0.8534726408  Biso 1.0 Au
+Mn6 1.0000000000 0.9932664361 0.9932664361 0.0075963385  Biso 1.0 Mn
+Mn7 1.0000000000 0.1495722948 0.1495722948 0.5638079100  Biso 1.0 Mn

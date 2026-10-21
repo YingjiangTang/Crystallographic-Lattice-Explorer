@@ -1,0 +1,33 @@
+# AFLOW.org Repositories
+# Pb1S1   [ORC,ORC,oP8] (STD_PRIM doi:10.1
+data_Pb1S1
+_pd_phase_name Pb1S1
+_cell_length_a  5.9432663332
+_cell_length_b  6.2963569589
+_cell_length_c  7.0328913756
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P1'
+_symmetry_Int_Tables_Number  1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+Pb1 1.0000000000 0.3195088186 0.0000000000 0.7500000000  Biso 1.0 Pb
+Pb2 1.0000000000 0.6804911814 0.0000000000 0.2500000000  Biso 1.0 Pb
+Pb3 1.0000000000 0.1707724132 0.4523129683 0.2500000000  Biso 1.0 Pb
+Pb4 1.0000000000 0.8292275868 0.4523129683 0.7500000000  Biso 1.0 Pb
+S5 1.0000000000 0.0000000000 0.1369033411 0.5000000000  Biso 1.0 S
+S6 1.0000000000 0.0000000000 0.1369033411 0.0000000000  Biso 1.0 S
+S7 1.0000000000 0.2597879802 0.5894302839 0.7500000000  Biso 1.0 S
+S8 1.0000000000 0.7402120198 0.5894302839 0.2500000000  Biso 1.0 S

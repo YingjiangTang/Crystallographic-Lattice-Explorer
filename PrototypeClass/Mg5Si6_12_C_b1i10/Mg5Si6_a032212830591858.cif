@@ -1,0 +1,36 @@
+# AFLOW.org Repositories
+# Mg5Si6   [MCLC,MCLC1,mS22] (STD_PRIM doi
+data_Mg5Si6
+_pd_phase_name Mg5Si6
+_cell_length_a  8.1848843364
+_cell_length_b  8.1848843364
+_cell_length_c  6.5017534576
+_cell_angle_alpha  78.1740838757
+_cell_angle_beta  78.1740838757
+_cell_angle_gamma  28.2056586578
+_symmetry_space_group_name_H-M  'P1'
+_symmetry_Int_Tables_Number  1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+Mg1 1.0000000000 0.5000000000 0.5000000000 0.0000000000  Biso 1.0 Mg
+Mg2 1.0000000000 0.6722997998 0.6722997998 0.0480809409  Biso 1.0 Mg
+Mg3 1.0000000000 0.3277002002 0.3277002002 0.9519190591  Biso 1.0 Mg
+Mg4 1.0000000000 0.5930628166 0.5930628166 0.5683957903  Biso 1.0 Mg
+Mg5 1.0000000000 0.4069371834 0.4069371834 0.4316042097  Biso 1.0 Mg
+Si6 1.0000000000 0.9552664241 0.9552664241 0.6977908625  Biso 1.0 Si
+Si7 1.0000000000 0.0447335759 0.0447335759 0.3022091375  Biso 1.0 Si
+Si8 1.0000000000 0.8050936943 0.8050936943 0.2707763918  Biso 1.0 Si
+Si9 1.0000000000 0.1949063057 0.1949063057 0.7292236082  Biso 1.0 Si
+Si10 1.0000000000 0.8001568063 0.8001568063 0.6573162658  Biso 1.0 Si
+Si11 1.0000000000 0.1998431937 0.1998431937 0.3426837342  Biso 1.0 Si

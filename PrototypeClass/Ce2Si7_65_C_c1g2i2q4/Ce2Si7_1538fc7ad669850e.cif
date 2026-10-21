@@ -1,0 +1,34 @@
+# AFLOW.org Repositories
+# Ce2Si7 #65 - (Ce2Si7_ICSD_174528) - Ce2S
+data_Ce2Si7
+_pd_phase_name Ce2Si7
+_cell_length_a  6.1876366519
+_cell_length_b  6.1876366519
+_cell_length_c  4.5896439529
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  108.7206634054
+_symmetry_space_group_name_H-M  'P1'
+_symmetry_Int_Tables_Number  1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+Ce1 1.0000000000 0.7075959865 0.2924040135 0.0000000000  Biso 1.0 Ce
+Ce2 1.0000000000 0.2924040135 0.7075959865 0.0000000000  Biso 1.0 Ce
+Si3 1.0000000000 0.5000000000 0.5000000000 0.5000000000  Biso 1.0 Si
+Si4 1.0000000000 0.0636313449 0.3213894210 0.5000000000  Biso 1.0 Si
+Si5 1.0000000000 0.9363686551 0.6786105790 0.5000000000  Biso 1.0 Si
+Si6 1.0000000000 0.6786105790 0.9363686551 0.5000000000  Biso 1.0 Si
+Si7 1.0000000000 0.3213894210 0.0636313449 0.5000000000  Biso 1.0 Si
+Si8 1.0000000000 0.1743960606 0.1743960606 0.0000000000  Biso 1.0 Si
+Si9 1.0000000000 0.8256039394 0.8256039394 0.0000000000  Biso 1.0 Si

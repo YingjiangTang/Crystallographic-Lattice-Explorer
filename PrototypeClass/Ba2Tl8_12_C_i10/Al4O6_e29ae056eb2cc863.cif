@@ -1,0 +1,35 @@
+# AFLOW.org Repositories
+# Al2O3   [MCLC,MCLC1,mS20] (STD_PRIM doi:
+data_Al2O3
+_pd_phase_name Al2O3
+_cell_length_a  6.1397708342
+_cell_length_b  6.1397708342
+_cell_length_c  5.6717732909
+_cell_angle_alpha  76.4033705097
+_cell_angle_beta  76.4033705097
+_cell_angle_gamma  27.7010684954
+_symmetry_space_group_name_H-M  'P1'
+_symmetry_Int_Tables_Number  1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+Al1 1.0000000000 0.9096907931 0.9096907931 0.7961119147  Biso 1.0 Al
+Al2 1.0000000000 0.0903092069 0.0903092069 0.2038880853  Biso 1.0 Al
+Al3 1.0000000000 0.6578526880 0.6578526880 0.6830818953  Biso 1.0 Al
+Al4 1.0000000000 0.3421473120 0.3421473120 0.3169181047  Biso 1.0 Al
+O5 1.0000000000 0.8394007088 0.8394007088 0.1092968526  Biso 1.0 O
+O6 1.0000000000 0.1605992912 0.1605992912 0.8907031474  Biso 1.0 O
+O7 1.0000000000 0.5050002738 0.5050002738 0.2568863524  Biso 1.0 O
+O8 1.0000000000 0.4949997262 0.4949997262 0.7431136476  Biso 1.0 O
+O9 1.0000000000 0.1735125976 0.1735125976 0.4327529013  Biso 1.0 O
+O10 1.0000000000 0.8264874024 0.8264874024 0.5672470987  Biso 1.0 O

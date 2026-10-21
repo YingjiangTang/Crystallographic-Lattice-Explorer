@@ -1,0 +1,31 @@
+# AFLOW.org Repositories
+# Li1Sn1   [MCL,MCL,mP6] (STD_PRIM doi:10.
+data_Li1Sn1
+_pd_phase_name Li1Sn1
+_cell_length_a  3.2795789147
+_cell_length_b  5.2054634392
+_cell_length_c  7.8636274821
+_cell_angle_alpha  74.3552767156
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P1'
+_symmetry_Int_Tables_Number  1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+Li1 1.0000000000 0.5000000000 0.5000000000 0.0000000000  Biso 1.0 Li
+Li2 1.0000000000 0.5000000000 0.7381558171 0.3284497654  Biso 1.0 Li
+Li3 1.0000000000 0.5000000000 0.2618441829 0.6715502346  Biso 1.0 Li
+Sn4 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Sn
+Sn5 1.0000000000 0.0000000000 0.7505617379 0.6610396331  Biso 1.0 Sn
+Sn6 1.0000000000 0.0000000000 0.2494382621 0.3389603669  Biso 1.0 Sn

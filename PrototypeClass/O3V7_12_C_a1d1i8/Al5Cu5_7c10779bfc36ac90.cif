@@ -1,0 +1,35 @@
+# AFLOW.org Repositories
+# Al1Cu1   [MCLC,MCLC1,mS20] (STD_PRIM doi
+data_Al1Cu1
+_pd_phase_name Al1Cu1
+_cell_length_a  6.3692728438
+_cell_length_b  6.3692728438
+_cell_length_c  6.9304192325
+_cell_angle_alpha  57.3371567619
+_cell_angle_beta  57.3371567619
+_cell_angle_gamma  37.5782705250
+_symmetry_space_group_name_H-M  'P1'
+_symmetry_Int_Tables_Number  1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+Al1 1.0000000000 0.5000000000 0.5000000000 0.5000000000  Biso 1.0 Al
+Al2 1.0000000000 0.1562953982 0.1562953982 0.1493157363  Biso 1.0 Al
+Al3 1.0000000000 0.8437046018 0.8437046018 0.8506842637  Biso 1.0 Al
+Al4 1.0000000000 0.3792262587 0.3792262587 0.2377909860  Biso 1.0 Al
+Al5 1.0000000000 0.6207737413 0.6207737413 0.7622090140  Biso 1.0 Al
+Cu6 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Cu
+Cu7 1.0000000000 0.2575873494 0.2575873494 0.7246805265  Biso 1.0 Cu
+Cu8 1.0000000000 0.7424126506 0.7424126506 0.2753194735  Biso 1.0 Cu
+Cu9 1.0000000000 0.1093909359 0.1093909359 0.5539633915  Biso 1.0 Cu
+Cu10 1.0000000000 0.8906090641 0.8906090641 0.4460366085  Biso 1.0 Cu

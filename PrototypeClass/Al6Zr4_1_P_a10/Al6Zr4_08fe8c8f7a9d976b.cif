@@ -1,0 +1,35 @@
+# AFLOW.org Repositories
+# Al3Zr2   [ORCF,ORCF1,oF40] (STD_PRIM doi
+data_Al3Zr2
+_pd_phase_name Al3Zr2
+_cell_length_a  8.4766719708
+_cell_length_b  7.5165310704
+_cell_length_c  5.5673235691
+_cell_angle_alpha  79.2301851171
+_cell_angle_beta  60.5881600371
+_cell_angle_gamma  40.1816548458
+_symmetry_space_group_name_H-M  'P1'
+_symmetry_Int_Tables_Number  1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+Al1 1.0000000000 0.5989411794 0.4010588206 0.4010588206  Biso 1.0 Al
+Al2 1.0000000000 0.8489411794 0.6510588206 0.6510588206  Biso 1.0 Al
+Al3 1.0000000000 0.5217078409 0.2077835832 0.8403422288  Biso 1.0 Al
+Al4 1.0000000000 0.4301663471 0.8403422288 0.2077835832  Biso 1.0 Al
+Al5 1.0000000000 0.0422164168 0.7282921591 0.8198336529  Biso 1.0 Al
+Al6 1.0000000000 0.4096577712 0.8198336529 0.7282921591  Biso 1.0 Al
+Zr7 1.0000000000 0.1141446955 0.7804495336 0.2503658338  Biso 1.0 Zr
+Zr8 1.0000000000 0.8550399371 0.2503658338 0.7804495336  Biso 1.0 Zr
+Zr9 1.0000000000 0.4691846326 0.1358553045 0.3949600629  Biso 1.0 Zr
+Zr10 1.0000000000 0.0000000000 0.3945942291 0.1358553045  Biso 1.0 Zr

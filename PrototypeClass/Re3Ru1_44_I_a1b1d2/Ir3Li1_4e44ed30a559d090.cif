@@ -1,0 +1,29 @@
+# AFLOW.org Repositories
+# Ir3Li1   [ORCI,ORCI,oI8] (STD_PRIM doi:1
+data_Ir3Li1
+_pd_phase_name Ir3Li1
+_cell_length_a  5.1060616434
+_cell_length_b  5.1060616434
+_cell_length_c  5.1060616434
+_cell_angle_alpha  149.6186655385
+_cell_angle_beta  125.3882553696
+_cell_angle_gamma  63.7816910861
+_symmetry_space_group_name_H-M  'P1'
+_symmetry_Int_Tables_Number  1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+Ir1 1.0000000000 0.5013492819 0.5000000000 0.0013492819  Biso 1.0 Ir
+Ir2 1.0000000000 0.4511490054 0.7575557895 0.6935932159  Biso 1.0 Ir
+Ir3 1.0000000000 0.9360374264 0.2424442105 0.6935932159  Biso 1.0 Ir
+Li4 1.0000000000 0.0154642862 0.0000000000 0.0154642862  Biso 1.0 Li

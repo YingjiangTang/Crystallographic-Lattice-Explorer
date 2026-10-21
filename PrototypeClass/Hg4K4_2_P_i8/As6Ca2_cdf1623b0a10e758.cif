@@ -1,0 +1,33 @@
+# AFLOW.org Repositories
+# As3Ca1   [TRI,TRI1b,aP8] (STD_PRIM doi:1
+data_As3Ca1
+_pd_phase_name As3Ca1
+_cell_length_a  5.9181472604
+_cell_length_b  5.8796404336
+_cell_length_c  5.9840040437
+_cell_angle_alpha  70.6748960125
+_cell_angle_beta  80.1657340323
+_cell_angle_gamma  75.6626476985
+_symmetry_space_group_name_H-M  'P1'
+_symmetry_Int_Tables_Number  1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+As1 1.0000000000 0.9883594934 0.2207561697 0.9848271254  Biso 1.0 As
+As2 1.0000000000 0.0116405066 0.7792438303 0.0151728746  Biso 1.0 As
+As3 1.0000000000 0.1454770326 0.8114007724 0.5909716376  Biso 1.0 As
+As4 1.0000000000 0.8545229674 0.1885992276 0.4090283624  Biso 1.0 As
+As5 1.0000000000 0.4114153207 0.2216383420 0.9051226493  Biso 1.0 As
+As6 1.0000000000 0.5885846793 0.7783616580 0.0948773507  Biso 1.0 As
+Ca7 1.0000000000 0.3146913748 0.3416251090 0.3713104025  Biso 1.0 Ca
+Ca8 1.0000000000 0.6853086252 0.6583748910 0.6286895975  Biso 1.0 Ca

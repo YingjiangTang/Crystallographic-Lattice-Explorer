@@ -1,0 +1,33 @@
+# AFLOW.org Repositories
+# B1Re3   [ORCC,ORCC,oS16] (STD_PRIM doi:1
+data_B1Re3
+_pd_phase_name B1Re3
+_cell_length_a  4.9391771223
+_cell_length_b  4.9391771223
+_cell_length_c  7.3531631804
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  145.5436364569
+_symmetry_space_group_name_H-M  'P1'
+_symmetry_Int_Tables_Number  1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+B1 1.0000000000 0.2540336437 0.7459663563 0.2500000000  Biso 1.0 B
+B2 1.0000000000 0.7459663563 0.2540336437 0.7500000000  Biso 1.0 B
+Re3 1.0000000000 0.8663787107 0.1336212893 0.0649764725  Biso 1.0 Re
+Re4 1.0000000000 0.1336212893 0.8663787107 0.5649764725  Biso 1.0 Re
+Re5 1.0000000000 0.8663787107 0.1336212893 0.4350235275  Biso 1.0 Re
+Re6 1.0000000000 0.1336212893 0.8663787107 0.9350235275  Biso 1.0 Re
+Re7 1.0000000000 0.5761626576 0.4238373424 0.2500000000  Biso 1.0 Re
+Re8 1.0000000000 0.4238373424 0.5761626576 0.7500000000  Biso 1.0 Re

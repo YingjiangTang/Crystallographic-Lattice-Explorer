@@ -1,0 +1,35 @@
+# AFLOW.org Repositories
+# Br4U1   [MCLC,MCLC1,mS20] (STD_PRIM doi:
+data_Br4U1
+_pd_phase_name Br4U1
+_cell_length_a  7.2264875955
+_cell_length_b  7.2264875955
+_cell_length_c  7.6401084344
+_cell_angle_alpha  86.9034972563
+_cell_angle_beta  86.9034972563
+_cell_angle_gamma  76.7782607029
+_symmetry_space_group_name_H-M  'P1'
+_symmetry_Int_Tables_Number  1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+Br1 1.0000000000 0.9514620910 0.9514620910 0.7374018194  Biso 1.0 Br
+Br2 1.0000000000 0.0485379090 0.0485379090 0.2625981806  Biso 1.0 Br
+Br3 1.0000000000 0.3226130526 0.3226130526 0.8402893774  Biso 1.0 Br
+Br4 1.0000000000 0.6773869474 0.6773869474 0.1597106226  Biso 1.0 Br
+Br5 1.0000000000 0.1713284968 0.5499386437 0.3466775563  Biso 1.0 Br
+Br6 1.0000000000 0.4500613563 0.8286715032 0.6533224437  Biso 1.0 Br
+Br7 1.0000000000 0.8286715032 0.4500613563 0.6533224437  Biso 1.0 Br
+Br8 1.0000000000 0.5499386437 0.1713284968 0.3466775563  Biso 1.0 Br
+U9 1.0000000000 0.1961190876 0.1961190876 0.5577945852  Biso 1.0 U
+U10 1.0000000000 0.8038809124 0.8038809124 0.4422054148  Biso 1.0 U
