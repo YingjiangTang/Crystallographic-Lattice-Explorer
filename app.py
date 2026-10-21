@@ -280,10 +280,9 @@ with right_panel:
 
     else:
         display_columns = [
-            "Name",
+            "CompName",
             "SpaceGroup",
-            "Bravais",
-            "Zave"
+            "WyckoffPosition",
         ]
 
         st.dataframe(
